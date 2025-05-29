@@ -315,8 +315,7 @@ if __name__ == "__main__":
     
     # Replace with your actual test image paths
     test_images = [
-        r"C:\Users\Ajmal\Documents\programs\SAR\Padded_imgs\BTR_60\HB03333 (another copy).JPG",
-        r"C:\Users\Ajmal\Documents\programs\SAR\Padded_imgs\2S1\HB14937.JPG"
+       
     ]
     
     # Or test a directory
