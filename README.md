@@ -1,4 +1,4 @@
-# Radar Image Classification using Scattering Transform and Deep Learning
+# Radar Image Detection using Scattering Transform and Deep Learning
 
 This repository provides a complete pipeline for radar image classification using the [Scattering2D transform](https://www.kymat.io/) for feature extraction and a deep neural network for classification. It includes utilities for training, evaluation, and inference, and supports bulk prediction with visualization and result export.
 
